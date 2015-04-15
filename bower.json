@@ -1,0 +1,24 @@
+{
+  "name": "my-project1",
+  "version": "0.0.0",
+  "authors": [
+    "SPorwal <shraddhaporwal@gmail.com>"
+  ],
+  "description": "A test project with bower and polymer",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "license": "MIT",
+  "homepage": "www.shraddhaporwal.in",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.8.0"
+  }
+}
